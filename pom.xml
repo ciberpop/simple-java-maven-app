@@ -66,10 +66,4 @@
       </plugin>
     </plugins>
   </build>
-  <distributionManagement>
-    <repository>
-      <id>my-repo-bucket-release</id>
-      <url>gs://mavenrepository/release</url>
-    </repository>
-  </distributionManagement>
 </project>
